@@ -1,1 +1,1 @@
-Le profil de l'utilisateur sera affiché ici.
+Le profil de l'utilisateur sera affiché ici ..
