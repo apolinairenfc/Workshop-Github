@@ -1,1 +1,1 @@
-Modal
+ici nous allons une fonction pour le modal
