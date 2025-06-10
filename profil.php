@@ -1,1 +1,1 @@
-ici nous allons afficher le profil de l'utilisateur
+ici nous allons creer un function pour afficher le profil de l'utilisateur, le modifier ou le supprimer
